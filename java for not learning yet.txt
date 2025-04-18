@@ -1,0 +1,12 @@
+Hash Table
+read char from file
+applet
+settings Font- Georgia, Foreground color- Red, background color – Blue on the Frame (Use Label)
+abstract class
+package
+Awt
+swing
+expection handaling
+linked list class
+a.Iterator Interface 
+b.ListIterator Interface (reverse order)      

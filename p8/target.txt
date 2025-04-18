@@ -1,0 +1,4 @@
+hello, *** world! this is a sample text file.
+it contains letters, numbers, and symbols.
+the program will copy this text to the target file,
+changing the case of letters and replacing numbers with '*'.
